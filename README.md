@@ -1,7 +1,7 @@
 chrome-xpath-link
 =================
 
-Did you ever want to deep link to a paragraph of an HTML page? If that section or paragrah has an HTML id attribute set, browsers will scroll to it if you append it to the URL hash 
+Did you ever want to deep link to a paragraph of an HTML page? If that section or paragrah has an HTML id attribute set, browsers will scroll to it if you append it to the URL hash .
   https://github.com/dergachev/chrome-xpath-link#chrome-xpath-link
 
 This extension allows you to easily copy a direct link to any element (with or without id attribute) simply by right clicking on it, and selecting "Get link to XPath" from the context menu.
